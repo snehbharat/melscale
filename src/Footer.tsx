@@ -30,7 +30,7 @@ export default function Footer() {
           </div>
           
           <div className="text-center text-gray-500">
-            <p>&copy; 2024 Sonic Universe. Crafted with passion for audio excellence.</p>
+            <p>&copy; 2024 MelScale Universe. Crafted with passion for audio excellence.</p>
           </div>
         </div>
       </footer>
