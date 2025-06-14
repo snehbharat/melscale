@@ -10,7 +10,7 @@ export default function Footer() {
             <h3 className="text-4xl font-bold mb-4 flex items-center justify-center space-x-3">
               <Waves className="w-10 h-10 text-blue-400" />
               <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                Sonic Universe
+                MelScale Universe
               </span>
             </h3>
             <p className="text-gray-400 text-lg max-w-2xl mx-auto">
